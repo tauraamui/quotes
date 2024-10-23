@@ -1,0 +1,1 @@
+{"content":"THe programming language you like, is often an expression of what you find fun.","author":"ThPrimeagen","reference":"Ladybird On Swift Vs Rust Youtube video @ 7:39"}
