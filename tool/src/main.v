@@ -16,5 +16,5 @@ fn main() {
 		reference: os.input("Where? -> ")
 	}
 	println(json.encode(quote))
-	os.write_lines("../quotes.txt", [json.encode(quote)])!
+	os.write_lines("./quotes.txt", [json.encode(quote)])!
 }
