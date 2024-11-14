@@ -2,3 +2,4 @@
 {"content":"People are spending 8 hours a day, for their life, dealing with something ugly. Doesn't that matter? I think that it does.","author":"Jonathan Blow","reference":"Jonathan Blow on Deep Work: The Shape of a Problem Doesn't Start Anywhere - YT video @ 17:17"}
 {"content":"The heist started with an email from a criminal with a deep knowledge of cheese.","author":"David Collins","reference":"The Sunday Times issue # 10,441 October 27, 2024"}
 {"content":"No tree, it is said, can grow to heaven unless its roots reach down to hell.","author":"Carl Jung","reference":"Aion: Researches into the Phenomenology of the Self, chapter 5"}
+{"content":"\"You only get to die once, so make sure it was worth it\"","author":"Unknown","reference":"Unknown"}
