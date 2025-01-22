@@ -4,3 +4,4 @@
 {"content":"No tree, it is said, can grow to heaven unless its roots reach down to hell.","author":"Carl Jung","reference":"Aion: Researches into the Phenomenology of the Self, chapter 5"}
 {"content":"\"You only get to die once, so make sure it was worth it\"","author":"Unknown","reference":"Unknown"}
 {"content":"Obviously AI is going to take all of our jobs, the moment that product managers can accurately describe what they want. Which means our jobs are effectively safe ad infinitum.","author":"ThePrimeagen","reference":"Youtube video \"Programming Is Cooked\" @ 22s"}
+{"content":"a super comment trait of lower midwits is their tendency to assume that simply pointing out the existence of a thing is equivalent to endorsing or defending the thing","author":"paris theilton (on X)","reference":"X"}
